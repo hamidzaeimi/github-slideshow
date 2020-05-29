@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+You the baby - try more - you will learn walking :-)
 Use the left arrow to go back!
